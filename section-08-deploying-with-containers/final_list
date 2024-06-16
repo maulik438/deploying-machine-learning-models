@@ -3,3 +3,12 @@ Lung Nodule Characterization: Created an AI pipeline under a public-private part
 Fast Brain Stroke Detection: Engineered a DL classification system for rapid Hemorrhagic stroke detection using MIP images, with Gradcam++ for hemorrhage localization in 3D volumes, extended to CBCT data.
 Wearable Ultrasound for HDM: Contributed to the development of a non-invasive vital monitoring ultrasound wearable, including real-time artery identification and blood flow calculation modules.
 
+ctively participated in the creation of an object detection framework powered by Machine Learning. Crafted real-time automotive applications utilizing deep learning and diverse region proposal architectures.
+
+ngineered a driver authentication system that grants vehicle access to verified users through facial biometric identification.
+For the departure warning system, I engineered a lane marker curve fitting solution that tracks using a Kalman filter and selects adaptive ROIs based on confidence analysis.
+
+
+In the development of a multi-camera panoramic surveillance system, I contributed to the detection and tracking of objects within a 360-degree panoramic view. My primary focus was on creating an image demosaicing and pre-processing pipeline, as well as a model for viewpoint stabilization utilizing vehicle INS data.
+
+
