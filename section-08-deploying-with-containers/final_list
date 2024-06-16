@@ -1,0 +1,5 @@
+AI-based LI-RADS: Developed an AI tool for HCC detection, achieving liver and lesion segmentation on CT/MRI, with a patented ML model for LI-RADS scoring. Integrated into Philips’ VITAMIN, intellispace discovery, and Intellispace portal, deployed widely.
+Lung Nodule Characterization: Created an AI pipeline under a public-private partnership to detect and classify lung nodules in CT scans, and conducted AI healthcare training for SDAIA data scientists.
+Fast Brain Stroke Detection: Engineered a DL classification system for rapid Hemorrhagic stroke detection using MIP images, with Gradcam++ for hemorrhage localization in 3D volumes, extended to CBCT data.
+Wearable Ultrasound for HDM: Contributed to the development of a non-invasive vital monitoring ultrasound wearable, including real-time artery identification and blood flow calculation modules.
+
